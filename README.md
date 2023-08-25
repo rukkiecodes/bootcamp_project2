@@ -1,3 +1,7 @@
+![image info](./ss.png)
+
+# Demo Link [bootcampproject2.netlify.app](https://bootcampproject2.netlify.app/)
+
 # Website for Storytelling
 
 This is a simple web page that tells exciting stories. It has different sections where you can learn about interesting things related to technology. Let's take a look at what's on this page:
